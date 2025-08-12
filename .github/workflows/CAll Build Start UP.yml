@@ -2,7 +2,7 @@ on:
   workflow_dispatch:
     inputs:
       CPU:
-        description: "процессор"
+        description: "процессор)"
         required: true
         default: 'sm7675'
       FEIL:
